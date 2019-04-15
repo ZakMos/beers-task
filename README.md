@@ -1,3 +1,13 @@
+## Task
+What we want to accomplish, is to get a feeling for your code styling. So please share your repository in the end and provide deployment instructions.
+
+## Prepare two simple screens:
+1. List of all beers including name, abv, ibu After a click on one list item you get a second screen
+2. Details of beer including: name, abv, ibu, isOrganic, labels, year, status, if available: related glass data
+please use: https://www.brewerydb.com/
+===============================================
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
