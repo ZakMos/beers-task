@@ -5,6 +5,8 @@ What we want to accomplish, is to get a feeling for your code styling. So please
 1. List of all beers including name, abv, ibu After a click on one list item you get a second screen
 2. Details of beer including: name, abv, ibu, isOrganic, labels, year, status, if available: related glass data
 please use: https://www.brewerydb.com/
+
+
 ===============================================
 
 
